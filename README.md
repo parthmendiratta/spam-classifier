@@ -73,13 +73,16 @@ Then visit: [http://localhost:8501](http://localhost:8501) in your browser 🚀
 
 ## 🌐 Live Demo
 
-👉 [Click here to try the live app](https://your-streamlit-app-link.com)  
+👉 [Click here to try the live app](https://spam-classifier-snnnxwan7vxlgy5ut43ssn-parthmendiratta.streamlit.app/)  
 
 ---
 
 ## 📸 Screenshot
 
-> _(Add a screenshot of your app UI here for better visibility)_
+> App Screenshot
+
+> ![Spam Prediction](Screenshot1.png)
+> ![Ham Prediction](Screenshot2.png)
 
 ---
 
