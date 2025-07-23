@@ -44,7 +44,7 @@ sms-spam-classifier/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/spam-classifier.git
+git clone https://github.com/parthmendiratta/spam-classifier.git
 cd spam-classifier
 ```
 
